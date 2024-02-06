@@ -1,1 +1,1 @@
-# CNNs-for-AD-Detection
+See notebook above
